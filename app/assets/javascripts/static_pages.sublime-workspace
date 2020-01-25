@@ -1,0 +1,272 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"box-shadow\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"confi",
+				"configure"
+			],
+			[
+				"mymo",
+				"myModalLabel"
+			],
+			[
+				"moda",
+				"modal-title"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"border-",
+				"border-bottom\tproperty"
+			],
+			[
+				"dev",
+				"development"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"pa",
+				"padding-bottom\tproperty"
+			],
+			[
+				"bor",
+				"border-style\tproperty"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/FRANCIS/Desktop/coding-environment2/src/flixter/app/views/layouts/application.html.erb",
+		"/C/Users/FRANCIS/Desktop/coding-environment2/src/flixter/app/assets/javascripts/application.js",
+		"/C/Users/FRANCIS/Desktop/coding-environment2/src/flixter/Gemfile",
+		"/C/Users/FRANCIS/Desktop/coding-environment2/src/flixter/config/routes.rb",
+		"/C/Users/FRANCIS/Desktop/coding-environment2/src/flixter/app/views/static_pages/index.html.erb",
+		"/C/Users/FRANCIS/Desktop/coding-environment2/src/flixter/app/controllers/static_pages_controller.rb",
+		"/C/Users/FRANCIS/Desktop/coding-environment2/src/flixter/config/database.yml",
+		"/C/Users/FRANCIS/Desktop/coding-environment2/src/flixter/app/assets/stylesheets/master.scss",
+		"/C/Users/FRANCIS/Desktop/coding-environment2/src/flixter/app/controllers/index.html.erb",
+		"/C/Users/FRANCIS/Desktop/coding-environment2/src/nomster/app/views/places/show.rb",
+		"/C/Users/FRANCIS/Desktop/coding-environment2/src/nomster/app/views/places/edit.html.erb",
+		"/C/Users/FRANCIS/Desktop/coding-environment2/src/nomster/app/views/show.html.erb",
+		"/C/Users/FRANCIS/Desktop/coding-environment2/src/nomster/app/mailers/comment_added.text.erb",
+		"/C/Users/FRANCIS/Desktop/coding-environment2/src/nomster/app/assets/fonts",
+		"/C/Users/FRANCIS/Desktop/coding-environment2/src/nomster/app/assets/stylesheets/places.scss",
+		"/C/Users/FRANCIS/Desktop/coding-environment2/src/splurty/config/puma.rb",
+		"/C/Users/FRANCIS/Desktop/programming/portfolio/New ones.html",
+		"/C/Users/FRANCIS/Desktop/programming/portfolio/me.jpg/IMG_4147.JPG",
+		"/C/Users/FRANCIS/Desktop/programming/portfolio/index.html/bg.jpg",
+		"/C/Program Files (x86)/Sublime Text 3/css jpg's"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "static_pages.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"app",
+				"app\\assets\\javascripts\\application.js"
+			],
+			[
+				"appl",
+				"app\\assets\\javascripts\\application.js"
+			],
+			[
+				"gem",
+				"Gemfile"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
