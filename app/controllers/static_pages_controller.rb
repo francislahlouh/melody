@@ -6,6 +6,7 @@ class StaticPagesController < ApplicationController
   # @songs = eminem.top_tracks(:US)
   end
   def authenticate 
-    RSpotify.authenticate("14ef885e385a4454b416c7eaba1d1ba5", "2cb49284fa7645009f6fd486c53e05ef")
+    RSpotify.authenticate(ENV['SPOTIFY_API_CLIENT_ID'],ENV['SPOTIFY_API_CLIENT_SECRET'] )
+
   end
 end 
