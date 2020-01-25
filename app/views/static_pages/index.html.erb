@@ -3,3 +3,9 @@
 <h2>Eminem is a lyrical genius. He has been the greatest rapper of all time, creating freestyles, to being bored on buses creating music. He was doubted when he was younger. People told him he would never make it. But he made it and became the best. 
 
 Eminem is the reason why I listen to rap/hip music. With newer music nowadays, I wouldn't call it bad I would just say that they it could use a lot more work. With Eminem everything is perfect, from the beats, to the lyrics, you can really feel the enthusiasm he brings forth.</h2>
+<h3>Here are Eminem's top ten tracks!</h3>
+<ul>
+<% @songs.each do |song| %>
+<li><%= song.name %></li>
+<% end %>
+</ul> (edited) 
